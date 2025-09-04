@@ -1,22 +1,8 @@
 # KIARATECHX_ASSESSMENT
 
-Hierarchical Task Management App
+Practical Round 2
 
-React application for managing tasks with hierarchical structure (tasks + subtasks).
-Built with Material UI for UI components and Lucide React for icons.
+Uploaded 3 Task file for each task as javascript file 
 
-Installation & Setup
-# Clone the repository
-git clone https://github.com/Priya-Bhut/KIARATECHX_ASSESSMENT.git
-
-# Go to project folder
-cd KIARATECHX_ASSESSMENT
-
-# Install dependencies
-npm install
-
-# Start the app
-npm start
-
-
-The app will run at  http://localhost:3000
+When task is performed then I have used the https://www.programiz.com/ 
+ 
